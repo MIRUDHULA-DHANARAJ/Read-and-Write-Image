@@ -20,8 +20,8 @@ Use imwrite(filename, image) to write the image.
 End the program and close the output image windows.
 ## Program:
 
-## Developed By:Manoj Choudhary V
-## Register Number:212221240025
+## Developed By:Mirudhula D
+## Register Number:212221230060
 # To Read,display the image
 ```
 import cv2
